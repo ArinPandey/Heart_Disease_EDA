@@ -18,5 +18,6 @@ An Exploratory Data Analysis (EDA) project aimed at identifying key clinical ris
 * `heart_disease_analysis.ipynb` — The main Jupyter Notebook containing all Python code, visualizations, and markdown commentary.
 * `heart.csv` — The raw clinical dataset (Source: UCI Machine Learning Repository).
 
-
+## Kaggle link
+* **Live Deployment:** [https://www.kaggle.com/code/arinpandey18/myproject1](https://www.kaggle.com/code/arinpandey18/myproject1)
 
