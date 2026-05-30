@@ -18,8 +18,5 @@ An Exploratory Data Analysis (EDA) project aimed at identifying key clinical ris
 * `heart_disease_analysis.ipynb` — The main Jupyter Notebook containing all Python code, visualizations, and markdown commentary.
 * `heart.csv` — The raw clinical dataset (Source: UCI Machine Learning Repository).
 
-## How to Run Locally
-1. Clone the repository: `git clone https://github.com/YourUsername/heart-disease-eda.git`
-2. Ensure you have Jupyter installed: `pip install jupyter pandas numpy matplotlib seaborn`
-3. Launch the notebook: `jupyter notebook`
+
 
