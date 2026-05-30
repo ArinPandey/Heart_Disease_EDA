@@ -22,4 +22,4 @@ An Exploratory Data Analysis (EDA) project aimed at identifying key clinical ris
 1. Clone the repository: `git clone https://github.com/YourUsername/heart-disease-eda.git`
 2. Ensure you have Jupyter installed: `pip install jupyter pandas numpy matplotlib seaborn`
 3. Launch the notebook: `jupyter notebook`
-4. 
+
